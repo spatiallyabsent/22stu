@@ -1,0 +1,43 @@
+* {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 0; padding: 0;
+}
+
+a {
+  margin: 10px;
+  color: white;
+}
+
+.mylinks {
+  background-color: rgb(31, 92, 31);
+  position: fixed;
+  text-align: right;
+  width: 100%;
+  line-height: 50px;
+  z-index: 1;
+}
+
+.major {
+  background-color: beige;
+  width: 100%;
+}
+
+.contactme {
+  background-color: rgb(230, 191, 143);
+  line-height: 50px;
+}
+
+.contactbox {
+  height: 150px;
+  width: 400px;
+  border: 5px solid rgb(214, 149, 10);
+  border-radius: 30px;
+  padding: 10px;
+  margin: auto;
+  font-size: smaller;
+}
+
+footer {
+  background-color: rgb(31, 92, 31);
+}
