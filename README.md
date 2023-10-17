@@ -1,2 +1,3 @@
 # 22stu
 student mini project number 22
+An assignment in which I had to create my first website creating code with html and css from scratch. Some main goals were to add font, 3 colors, and a fixed header that scrolls with the webpage with CSS. Using HTML we had to add 2 heading elements, multiple working contact links, an image with an alt description, and a form to submit an email and a name with a submit button.
